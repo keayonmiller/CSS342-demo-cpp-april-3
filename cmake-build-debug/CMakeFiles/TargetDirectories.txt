@@ -1,0 +1,3 @@
+/Users/keayon/CLionProjects/freestyleCPP/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/keayon/CLionProjects/freestyleCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/keayon/CLionProjects/freestyleCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
