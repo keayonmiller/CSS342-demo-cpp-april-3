@@ -1,4 +1,4 @@
-# Install script for directory: /Users/keayon/CLionProjects/freestyleCPP
+# Install script for directory: /Users/keayon/CLionProjects/CSS342-demo-cpp-april-3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/keayon/CLionProjects/freestyleCPP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/keayon/CLionProjects/CSS342-demo-cpp-april-3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
